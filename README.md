@@ -36,4 +36,4 @@ Vous pouvez supprimer vos données à tout moment en désinstallant l’applicat
 
 ## 7. Contact
 
-Pour toute question, vous pouvez nous contacter à : tonemail@example.com
+Pour toute question, vous pouvez nous contacter à : sunchung421@gmail.com
